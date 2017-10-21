@@ -1,0 +1,13 @@
+model filter=lfs diff=lfs merge=lfs -text
+model/Room.dae filter=lfs diff=lfs merge=lfs -text
+model/TV filter=lfs diff=lfs merge=lfs -text
+model/Other filter=lfs diff=lfs merge=lfs -text
+model/Kitchen.zip filter=lfs diff=lfs merge=lfs -text
+model/Lamp filter=lfs diff=lfs merge=lfs -text
+model/SetFuniture filter=lfs diff=lfs merge=lfs -text
+model/StudyTable filter=lfs diff=lfs merge=lfs -text
+model/bluejay filter=lfs diff=lfs merge=lfs -text
+model/plant filter=lfs diff=lfs merge=lfs -text
+model/BrickHouse filter=lfs diff=lfs merge=lfs -text
+model/BrickHouse/HouseWithFuniture.dae filter=lfs diff=lfs merge=lfs -text
+xcode filter=lfs diff=lfs merge=lfs -text

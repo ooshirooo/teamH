@@ -1,0 +1,5 @@
+{
+  "interleaveGeometrySources" : false,
+  "forceYUp" : true,
+  "preferCompressedTextures" : true
+}
