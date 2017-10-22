@@ -31,3 +31,7 @@ model/bed/0350603.jpg filter=lfs diff=lfs merge=lfs -text
 model/bed/0350604.jpg filter=lfs diff=lfs merge=lfs -text
 model/bed/bed.dae filter=lfs diff=lfs merge=lfs -text
 model/bed/wildtextures-seamless-polka-dot-fabric.jpg filter=lfs diff=lfs merge=lfs -text
+xcode/hoge/art.scnassets/Preset.dae filter=lfs diff=lfs merge=lfs -text
+model/carpet/carpet.dae filter=lfs diff=lfs merge=lfs -text
+model/curtain/curtain.dae filter=lfs diff=lfs merge=lfs -text
+model/preset/Preset.dae filter=lfs diff=lfs merge=lfs -text
